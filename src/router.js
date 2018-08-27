@@ -30,6 +30,16 @@ export default new Router({
       path: '/container',
       name: 'container',
       component: () => import('./views/Container.vue')
+    },
+    {
+      path: '/iconandbutton',
+      name: 'iconandbutton',
+      component: () => import('./views/IconAndButton.vue')
+    },
+    {
+      path: '/form',
+      name: 'form',
+      component: () => import('./views/Form.vue')
     }
   ]
 })

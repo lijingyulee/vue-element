@@ -4,6 +4,8 @@
       <router-link to="/">Transition</router-link> |
       <router-link to="/layout">Layout</router-link> |
       <router-link to="/container">Container</router-link> |
+      <router-link to="/iconandbutton">IconAndButton</router-link> |
+      <router-link to="/form">Form</router-link> |
     </div>
     <router-view/>
   </div>
