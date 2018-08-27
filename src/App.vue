@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">Transition</router-link> |
       <router-link to="/layout">Layout</router-link> |
+      <router-link to="/container">Container</router-link> |
     </div>
     <router-view/>
   </div>
